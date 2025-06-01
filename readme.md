@@ -18,3 +18,5 @@ echo - print text to the terminal or write into a file
 git status - show the working tree status
 
 git init - initialize a new git repository
+
+git add - stage changes for the next commit
