@@ -28,3 +28,5 @@ git push - upload local commits to the remote repository
 git pull - fetch and integrate changes from the remote repository
 
 mv - move or rename files or directories
+
+cat - display contents of a file
