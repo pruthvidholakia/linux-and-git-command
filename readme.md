@@ -22,3 +22,5 @@ git init - initialize a new git repository
 git add - stage changes for the next commit
 
 git checkout -b branch-git-commit
+
+git push - upload local commits to the remote repository
