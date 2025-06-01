@@ -20,3 +20,5 @@ git status - show the working tree status
 git init - initialize a new git repository
 
 git add - stage changes for the next commit
+
+git checkout -b branch-git-commit
